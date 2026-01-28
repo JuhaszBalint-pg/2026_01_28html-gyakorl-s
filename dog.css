@@ -1,9 +1,9 @@
 body{
-    
+   background-color: #ebd59b; 
 }
 
 p{
-    
+  text-align: justify;  
 }
 
 nav{
@@ -21,4 +21,14 @@ p.card-text{
 
 #alap{
     background-color: white;
+}
+
+h1, h2{
+    color: #0a0550 ;
+    font-weight: bold;
+}
+
+a, a:hover, a:active {
+   color: #8b0000;
+   text-decoration-line: none; 
 }
