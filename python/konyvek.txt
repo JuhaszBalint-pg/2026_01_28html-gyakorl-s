@@ -1,0 +1,154 @@
+nev;szulEv;halEv;nemzetiseg;cim;helyezes
+George Orwell;1903;1950;angol;1984;4
+Joseph Heller;1923;1999;amerikai;A 22-es csapdája;44
+G. Hajnóczy Rózsa;1892;1944;magyar;A bengáli tűz;101
+Dan Brown;1964;;amerikai;A da Vinci-kód;64
+Erich Maria Remarque;1898;1970;német;A Diadalív árnyékában;70
+Rudyard Kipling;1865;1936;angol;A dzsungel könyve;101
+Mikszáth Kálmán;1847;1910;magyar;A fekete város;56
+Füst Milán;1888;1948;magyar;A feleségem története;101
+Wass Albert;1908;1998;magyar;A funtineli boszorkány;25
+Babits Mihály;1883;1941;magyar;A gólyakalifa;101
+Márai Sándor;1900;1989;magyar;A gyertyák csonkig égnek;32
+J. R. R. Tolkien;1892;1973;angol;A Gyűrűk Ura I–III.;8
+Alexandre Dumas;1802;1870;francia;A három testőr;28
+Rejtő Jenő;1905;1943;magyar;A három testőr Afrikában;101
+Fjodor Mihajlovics Dosztojevszkij;1821;1881;orosz;A Karamazov testvérek;101
+Ken Follett;1949;;walesi;A katedrális;69
+Erich Kästner;1899;1974;német;A két Lotti;21
+Lőrincz L. László;1939;;magyar;A kicsik;101
+Antoine de Saint-Exupéry;1900;1944;francia;A kis herceg;7
+Jókai Mór;1825;1904;magyar;A kőszívű ember fiai;14
+Gárdonyi Géza;1963;1922;magyar;A láthatatlan ember;38
+William Golding;1911;1993;angol;A Legyek Ura;46
+Milan Kundera;1929;;cseh;A lét elviselhetetlen könnyűsége;92
+Mihail Afanaszjevics Bulgakov;1891;1940;orosz;A Mester és Margarita;10
+Dallos Sándor;1901;1964;magyar;A nap szerelmese;40
+Lázár Ervin;1936;2006;magyar;A Négyszögletű Kerek Erdő;101
+Meg Cabot;1967;;amerikai;A neveletlen hercegnő naplója;57
+Victor Hugo;1802;1885;francia;A nyomorultak;23
+Molnár Ferenc;1878;1952;magyar;A Pál utcai fiúk;2
+Szerb Antal;1901;1945;magyar;A Pendragon legenda;81
+Stephen King;1947;;amerikai;A ragyogás;101
+Umberto Eco;1932;2016;olasz;A rózsa neve;61
+Robert Merle;1908;2004;francia;A sziget;101
+Rejtő Jenő;1905;1943;magyar;A tizennégy karátos autó;47
+Jack London;1876;1916;amerikai;A vadon szava;101
+Thomas Mann;1875;1955;német;A varázshegy;90
+Michael Ende;1929;1995;német;A Végtelen Történet;101
+Szepes Mária;1908;2007;magyar;A vörös oroszlán;95
+Tamási Áron;1897;1966;magyar;Ábel a rengetegben;13
+Szabó Magda;1917;2007;magyar;Abigél;3
+Wass Albert;1908;1998;magyar;Adjátok vissza a hegyeimet!;31
+Ernest Hemingway;1899;1961;amerikai;Akiért a harang szól;53
+Isaac Asimov;1920;1992;orosz;Alapítvány és Birodalom;101
+George Orwell;1903;1950;angol;Állatfarm;101
+Rácz Zsuzsa;1972;;magyar;Állítsátok meg Terézanyut!;60
+Lev Nyikolajevics Tolsztoj;1828;1910;orosz;Anna Karenina;76
+Vámos Miklós;1950;;magyar;Anya csak egy van;101
+Vámos Miklós;1950;;magyar;Apák könyve;80
+Dallos Sándor;1901;1964;magyar;Aranyecset;48
+Móra Ferenc;1879;1934;magyar;Aranykoporsó;55
+Móricz Zsigmond;1879;1942;magyar;Árvácska;33
+Szabó Magda;1917;2007;magyar;Az ajtó;93
+Paulo Coelho;1947;;brazil;Az alkimista;85
+Jókai Mór;1825;1904;magyar;Az arany ember;5
+Maurice Druon;1918;2009;francia;Az elátkozott királyok;101
+Ernest Hemingway;1899;1961;amerikai;Az öreg halász és a tenger;20
+Sánta Ferenc;1927;2008;magyar;Az ötödik pecsét;101
+Felix Salten;1869;1945;osztrák;Bambi;101
+Mikszáth Kálmán;1847;1910;magyar;Beszterce ostroma;101
+Fehér Klára;1919;1996;magyar;Bezzeg az én időmben;82
+Fekete István;1900;1970;magyar;Bogáncs;45
+Ernest Hemingway;1899;1961;amerikai;Búcsú a fegyverektől;75
+Fjodor Mihajlovics Dosztojevszkij;1821;1881;orosz;Bűn és bűnhődés;34
+Jane Austen;1775;1817;angol;Büszkeség és balítélet;54
+Gerald Durrell;1925;1995;angol;Családom és egyéb állatfajták;101
+Mihail Alekszandrovics Solohov;1905;1984;orosz;Csendes Don;101
+Rejtő Jenő;1905;1943;magyar;Csontbrigád;101
+John Steinbeck;1902;1968;amerikai;Édentől keletre;65
+Kosztolányi Dezső;1885;1936;magyar;Édes Anna;43
+Németh László;1901;1975;magyar;Égető Eszter;101
+Gárdonyi Géza;1963;1922;magyar;Egri csillagok;1
+Jókai Mór;1825;1904;magyar;Egy magyar nábob;72
+Márai Sándor;1900;1989;magyar;Egy polgár vallomásai;94
+Szilvási Lajos;1932;1996;magyar;Egymás szemében;101
+Margaret Mitchell;1900;1949;amerikai;Elfújta a szél;22
+Wass Albert;1908;1998;magyar;Elvész a nyom;101
+Erich Kästner;1899;1974;német;Emil és a detektívek;101
+Nádas Péter;1942;;magyar;Emlékiratok könyve;101
+Móricz Zsigmond;1879;1942;magyar;Erdély;101
+Passuth László;1900;1979;magyar;Esőisten siratja Mexikót;101
+Leon Uris;1924;2003;amerikai;Exodus;101
+Jókai Mór;1825;1904;magyar;Fekete gyémántok;101
+Szabó Magda;1917;2007;magyar;Für Elise;101
+Szabó Magda;1917;2007;magyar;Für Elisé;86
+Douglas Adams;1952;2001;angol;Galaxis útikalauz stopposoknak;78
+Böszörményi Gyula;1964;;magyar;Gergő és az álomfogók;83
+Honoré de Balzac;1799;1850;francia;Goriot apó;101
+Lev Nyikolajevics Tolsztoj;1828;1910;orosz;Háború és béke;52
+Esterházy Péter;1950;2016;magyar;Harmonia caelestis;100
+Esterházy Péter;1950;2016;magyar;Harmonia c?lestis;101
+J. K. Rowling;1965;;angol;Harry Potter és a bölcsek köve;9
+J. K. Rowling;1965;;angol;Harry Potter és a Főnix Rendje;26
+J. K. Rowling;1965;;angol;Harry Potter és a Titkok Kamrája;17
+J. K. Rowling;1965;;angol;Harry Potter és az azkabani fogoly;16
+Gárdonyi Géza;1963;1922;magyar;Ida regénye;89
+Rideg Sándor;1903;1966;magyar;Indul a bakterház;15
+Ottlik Géza;1912;1990;magyar;Iskola a határon;71
+Gárdonyi Géza;1963;1922;magyar;Isten rabjai;101
+Németh László;1901;1975;magyar;Iszony;74
+Závada Pál;1954;;magyar;Jadviga párnája;88
+Charlotte Brontë;1816;1855;angol;Jane Eyre;36
+Thomas Mann;1875;1955;német;József és testvérei;96
+Wass Albert;1908;1998;magyar;Kard és kasza;68
+Hamvas Béla;1897;1968;magyar;Karnevál;101
+Móra Ferenc;1879;1934;magyar;Kincskereső kisködmön;29
+Mark Twain;1835;1910;amerikai;Koldus és királyfi;101
+Mikszáth Kálmán;1847;1910;magyar;Különös házasság;101
+Eric Knight;1897;1943;angol;Lassie hazatér;49
+Eric Knight;1897;1943;angol;Légy hű magadhoz;73
+Móricz Zsigmond;1879;1942;magyar;Légy jó mindhalálig;18
+Robert Merle;1908;2004;francia;Malevil;84
+Vavyan Fable;1956;;magyar;Mesemaraton;101
+Robert Merle;1908;2004;francia;Mesterségem a halál;63
+Alan Alexander Milne;1882;1956;angol;Micimackó;6
+Alexandre Dumas;1802;1870;francia;Monte Cristo grófja;24
+James Jones;1921;1977;amerikai;Most és mindörökké;101
+Jókai Anna;1932;2017;magyar;Ne féljetek;97
+Jules Verne;1828;1905;francia;Nemo kapitány;101
+Irwin Shaw;1913;1984;amerikai;Oroszlánkölykök;67
+Kosztolányi Dezső;1885;1936;magyar;Pacsirta;101
+Nógrádi Gábor;1947;;magyar;Pete Pite;101
+Nógrádi Gábor;1947;;magyar;PetePite;99
+Henri Charri?re;1906;1973;francia;Pillangó;101
+Rejtő Jenő;1905;1943;magyar;Piszkos Fred, a kapitány;37
+Faludy György;1910;2006;magyar;Pokolbéli víg napjaim;98
+Henryk Sienkiewicz;1846;1916;lengyel;Quo vadis;30
+Szabó Magda;1917;2007;magyar;Régimódi történet;91
+A. J. Cronin;1896;1981;angol;Réztábla a kapu alatt;101
+Daniel Defoe;1660;1731;angol;Robinson Crusoe;62
+Móricz Zsigmond;1879;1942;magyar;Rokonok;101
+Kertész Imre;1929;2016;magyar;Sorstalanság;27
+Jaroslav Hašek;1883;1923;cseh;Švejk;66
+Ken Kesey;1935;2001;amerikai;Száll a kakukk fészkére;101
+Gabriel García Márquez;1927;2014;kolumbiai;Száz év magány;12
+Mikszáth Kálmán;1847;1910;magyar;Szent Péter esernyője;35
+Gabriel García Márquez;1927;2014;kolumbiai;Szerelem a kolera idején;79
+Mika Waltari;1908;1979;finn;Szinuhe;101
+Fekete István;1900;1970;magyar;Téli berek;51
+Kálnay Adél;1952;;magyar;Titkok egy régi kertben;101
+Agatha Christie;1890;1976;angol;Tíz kicsi néger;101
+Mark Twain;1835;1910;amerikai;Tom Sawyer kalandjai;101
+Örkény István;1912;1979;magyar;Tóték;58
+Fekete István;1900;1970;magyar;Tüskevár;11
+Szerb Antal;1901;1945;magyar;Utas és holdvilág;87
+Karinthy Frigyes;1887;1938;magyar;Utazás a koponyám körül;77
+Emily Brontë;1818;1848;angol;Üvöltő szelek;39
+Robert Merle;1908;2004;francia;Védett férfiak;101
+Galgóczi Erzsébet;1930;1989;magyar;Vidravas;101
+Daniel Keyes;1927;2014;amerikai;Virágot Algernonnak;59
+Stendhal;1783;1842;francia;Vörös és fekete;41
+Fekete István;1900;1970;magyar;Vuk;19
+Karl May;1842;1912;német;Winnetou;50
+Jerome David Salinger;1919;2010;amerikai;Zabhegyező;42
